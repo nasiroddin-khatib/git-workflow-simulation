@@ -38,7 +38,3 @@ experiment → Used to demonstrate cherry-pick operation
 To demonstrate practical understanding of Git branching strategies, version control workflows, and repository management.
 hotfix-fixbug → Production hotfix
 experiment → Cherry-pick testing branch
-
-
-## Purpose
-To demonstrate practical understanding of real-world Git branching, version control operations, and repository management.
